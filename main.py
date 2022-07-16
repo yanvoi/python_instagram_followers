@@ -13,7 +13,7 @@ bot = Bot()
 
 bot.login(username="your_instagram_username", password="your_instagram_password")
 
-# creating a list of people who do not follow the account back, using sets
+# creating a list of people who do not follow the account back
 
 non_followers = list(set(bot.following) - set(bot.followers))
 
