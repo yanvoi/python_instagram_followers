@@ -6,4 +6,4 @@ https://pypi.org/project/instabot/
 
 ### Check who doesn't follow you back on instagram using python
 
-all you need to do is to install 'instabot' library for python and you're good to go
+all you need to do is install 'instabot' library for python and you're good to go
