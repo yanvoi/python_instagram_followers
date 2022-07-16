@@ -1,5 +1,5 @@
 # Important
-READ THE PROJECT DESCRIPTION:
+READ THE instabot PROJECT DESCRIPTION:
 https://pypi.org/project/instabot/
 
 "Right now the usage of this library (as probably others too) may harm your Instagram’s profile because of new script-detection algorithms. You were warned."
